@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class Card : MonoBehaviour
 {
-    int idx = 0;
+    public int idx = 0;
+
+    public GameObject front;
+    public GameObject back;
+
+    public Animator anim;
 
     public SpriteRenderer frontImage;
 
@@ -23,5 +28,12 @@ public class Card : MonoBehaviour
     {
         idx = num;
         frontImage.sprite = Resources.Load<Sprite>($"{idx}");
+    }
+
+    public void OpenCard()
+    {
+        anim.SetBool("isOpen", true);
+        front.SetActive(true);
+        back.SetActive(false);
     }
 }

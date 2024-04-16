@@ -4,7 +4,12 @@ using UnityEngine;
 
 public class Card : MonoBehaviour
 {
-    int idx = 0;
+    public int idx = 0;
+
+    public GameObject front;
+    public GameObject back;
+
+    public Animator anim;
 
     public SpriteRenderer frontImage;
     public SpriteRenderer backImage;
@@ -27,9 +32,14 @@ public class Card : MonoBehaviour
     }
 
 
-    //Ä«µå ´Ý±â ÇÔ¼öÀÔ´Ï´Ù.
+    //Ä«ï¿½ï¿½ ï¿½Ý±ï¿½ ï¿½Ô¼ï¿½ï¿½Ô´Ï´ï¿½.
     void CloseCardInvoke()
     {
         backImage.color = new Color(backImage.color.r - 0.1f, backImage.color.g - 0.1f, backImage.color.b - 0.1f);
+    public void OpenCard()
+    {
+        anim.SetBool("isOpen", true);
+        front.SetActive(true);
+        back.SetActive(false);
     }
 }

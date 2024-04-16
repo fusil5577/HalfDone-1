@@ -137,6 +137,7 @@ MonoBehaviour:
   back: {fileID: 2266414454162950167}
   anim: {fileID: 7400657444141022183}
   frontImage: {fileID: 522060526076044878}
+  backImage: {fileID: 2687728450346151751}
 --- !u!95 &7400657444141022183
 Animator:
   serializedVersion: 5

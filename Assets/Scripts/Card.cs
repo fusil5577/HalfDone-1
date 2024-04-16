@@ -37,12 +37,39 @@ public class Card : MonoBehaviour
         anim.SetBool("isOpen", true);
         front.SetActive(true);
         back.SetActive(false);
+
+        if (GameManager.instance.firstCard == null)
+        {
+            GameManager.instance.firstCard = this;
+        }
+        else
+        {
+            GameManager.instance.secondCard = this;
+            GameManager.instance.Matched();
+        }
+    }
+
+    public void DestroyCard()
+    {
+        Invoke("DestroyCardInvoke", 0.5f);
+    }
+
+    void DestroyCardInvoke()
+    {
+        Destroy(gameObject);
+    }
+
+    public void CloseCard()
+    {
+        Invoke("CloseCardInvoke", 0.5f);
     }
 
     //카드 닫기 함수
     void CloseCardInvoke()
     {
-        //카드 닫을 때마다 색상 변경
+        anim.SetBool("isOpen", false);
+        front.SetActive(false);
+        back.SetActive(true);
         backImage.color = new Color(backImage.color.r - 0.1f, backImage.color.g - 0.1f, backImage.color.b - 0.1f);
     }
 }

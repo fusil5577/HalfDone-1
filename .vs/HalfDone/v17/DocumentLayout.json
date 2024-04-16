@@ -3,23 +3,12 @@
   "WorkspaceRootPath": "D:\\portfolio\\HalfDone\\",
   "Documents": [
     {
-<<<<<<< Updated upstream
-=======
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\yeonghyeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\yeonghyeon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
->>>>>>> Stashed changes
       "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-<<<<<<< Updated upstream
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-=======
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
->>>>>>> Stashed changes
-      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -33,38 +22,16 @@
           "Children": [
             {
               "$type": "Document",
-<<<<<<< Updated upstream
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Board.cs",
               "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-=======
-              "DocumentIndex": 0,
-              "Title": "YeongHyeon.cs",
-              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\YeongHyeon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\YeongHyeon.cs",
-              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\YeongHyeon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\YeongHyeon.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
->>>>>>> Stashed changes
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-16T01:06:37.321Z",
+              "WhenOpened": "2024-04-15T08:03:26.052Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Board.cs",
-              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
-              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Board.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T08:03:26.052Z"
             },
             {
               "$type": "Document",
@@ -74,11 +41,7 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
               "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Card.cs",
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
-<<<<<<< Updated upstream
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAQAAAA",
-=======
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAeAAAA",
->>>>>>> Stashed changes
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T08:03:05.01Z",
               "EditorCaption": ""

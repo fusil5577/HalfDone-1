@@ -25,20 +25,11 @@ public class Card : MonoBehaviour
         idx = num;
         frontImage.sprite = Resources.Load<Sprite>($"{idx}");
     }
-<<<<<<< Updated upstream
-=======
 
-    public void OpenCard()
-    {
-        anim.SetBool("isOpen", true);
-        front.SetActive(true);
-        back.SetActive(false);
-    }
 
     //카드 닫기 함수입니다.
     void CloseCardInvoke()
     {
         backImage.color = new Color(backImage.color.r - 0.1f, backImage.color.g - 0.1f, backImage.color.b - 0.1f);
     }
->>>>>>> Stashed changes
 }

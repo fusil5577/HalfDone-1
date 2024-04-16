@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "D:\\portfolio\\HalfDone\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\board.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|d:\\portfolio\\halfdone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Effects\\FadeEffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\loadscenemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|D:\\portfolio\\HalfDone\\assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FB416E6E-CCFE-C021-EC1B-611A8C668AEE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -18,8 +26,31 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FadeEffect.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Effects\\FadeEffect.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:29:25.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadSceneManager.cs",
+              "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\LoadSceneManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadSceneManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-16T03:03:19.376Z"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +59,14 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Board.cs",
               "ToolTip": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Board.cs",
               "RelativeToolTip": "Assets\\Scripts\\Board.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA0AAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAADAAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-15T08:03:26.052Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Card.cs",
               "DocumentMoniker": "D:\\portfolio\\HalfDone\\Assets\\Scripts\\Card.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Card.cs",
@@ -43,8 +74,7 @@
               "RelativeToolTip": "Assets\\Scripts\\Card.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAwCsAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-15T08:03:05.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-15T08:03:05.01Z"
             }
           ]
         }

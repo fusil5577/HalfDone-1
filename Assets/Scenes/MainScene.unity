@@ -383,7 +383,7 @@ GameObject:
   - component: {fileID: 1311783907}
   m_Layer: 0
   m_Name: MainCamera
-  m_TagString: Untagged
+  m_TagString: MainCamera
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -760,7 +760,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f72aad772a2895346b57495ec0ac9793, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  card: {fileID: 2944248353956353104, guid: 635c6508863abff4391914dbb0e591aa, type: 3}
+  card: {fileID: 5587393148775580840, guid: 635c6508863abff4391914dbb0e591aa, type: 3}
 --- !u!4 &1640745365
 Transform:
   m_ObjectHideFlags: 0
